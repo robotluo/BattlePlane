@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\factory.cs">
+    <Files>
+      <File FileName="Assets\script\gameManager.cs" Line="39" Column="20" />
+      <File FileName="Assets\script\enemy.cs" Line="45" Column="4" />
+      <File FileName="Assets\script\pause.cs" Line="6" Column="32" />
+      <File FileName="Assets\script\hero.cs" Line="62" Column="9" />
+      <File FileName="Assets\script\buttle.cs" Line="19" Column="32" />
+      <File FileName="Assets\script\reStart.cs" Line="14" Column="1" />
+      <File FileName="Assets\script\quit.cs" Line="10" Column="3" />
+      <File FileName="Assets\script\gameOver.cs" Line="19" Column="22" />
+      <File FileName="Assets\script\factory.cs" Line="32" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

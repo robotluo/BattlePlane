@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/work/unity/project/2DRoguelike/Assets/Scenes/start.unity
+  isLoaded: 1
+  isActive: 1
