@@ -1,5 +1,5 @@
 # BattlePlane
-
+    导入路径 Assets/scence/BattlePlane.unity  
 　　在看完教程之后自己实现，以为很简单的地方结果思考了挺久，所以将自己的重做过程记录下来以便二次学习。  
 　　采用帧动画形式实现微信打飞机游戏。  
 　　简书地址：http://www.jianshu.com/p/cfa7e61c59d4
